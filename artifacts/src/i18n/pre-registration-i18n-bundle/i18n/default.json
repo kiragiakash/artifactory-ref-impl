@@ -34,6 +34,11 @@
       "name": "Spanish",
       "nativeName": "Español",
       "locale":"es_ES"
+    },
+    "es": {
+      "name": "Spanish",
+      "nativeName": "Español",
+      "locale":"es_ES"
     }
   }
 }
