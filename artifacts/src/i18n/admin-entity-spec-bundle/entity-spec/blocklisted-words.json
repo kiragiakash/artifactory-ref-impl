@@ -257,4 +257,21 @@
       "apiName": "blocklistedwords",
       "fieldName": "isActive",
       "methodCallName": ""
+    },
+    {
+      "filtername": "createdDateTime",
+      "filterlabel": {
+        "eng": "Created Time",
+        "ara": "الوقت الذي تم إنشاؤه",
+        "fra": "Temps créé",
+        "tam": "Created Time",
+        "hin": "बनाया गया समय",
+        "kan": "ಸಮಯವನ್ನು ರಚಿಸಲಾಗಿದೆ",
+        "es": "Tiempo de Creación"
+      },
+      "filterType": "between",
+      "inputType": "datetime",
+      "ismandatory": "false"
     }
+  ]
+}
