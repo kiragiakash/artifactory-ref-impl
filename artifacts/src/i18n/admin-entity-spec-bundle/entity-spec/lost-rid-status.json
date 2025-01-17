@@ -39,7 +39,7 @@
       "name": "firstName",
       "showInListView": "true",
       "showInSingleView": "true",
-     "label": {"eng": "First Name","ara": "الاسم الأول","fra": "Prénom","tam": "முதல் பெயர்","hin": "प्रथम नाम", "kan": "ಮೊದಲ ಹೆಸರು","es":"Nombre de pila"},
+      "label": {"eng": "First Name","ara": "الاسم الأول","fra": "Prénom","tam": "முதல் பெயர்","hin": "प्रथम नाम", "kan": "ಮೊದಲ ಹೆಸರು","es":"Nombre de pila"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -57,7 +57,6 @@
       "LinkURL": "",
       "noSort": "true"
     }
-
   ],
   "paginator": {},
   "filterColumns": [
@@ -87,15 +86,15 @@
     },
     {
       "filtername": "firstName",
-    "filterlabel": {
-    "eng": "First Name",
-    "ara": "الاسم الأول",
-    "fra": "Prénom",
-    "tam": "முதல் பெயர்",
-    "hin": "प्रथम नाम",
-    "kan": "ಮೊದಲ ಹೆಸರು",
-    "es":"Nombre de pila"
-   },
+      "filterlabel": {
+        "eng": "First Name",
+        "ara": "الاسم الأول",
+        "fra": "Prénom",
+        "tam": "முதல் பெயர்",
+        "hin": "प्रथम नाम",
+        "kan": "ಮೊದಲ ಹೆಸರು",
+        "es":"Nombre de pila"
+      },
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "false",
@@ -107,7 +106,7 @@
     },
     {
       "filtername": "middleName",
-        "filterlabel": {
+      "filterlabel": {
         "eng": "Middle Name",
         "ara": "الاسم الأوسط",
         "fra": "Deuxième prénom",
@@ -127,7 +126,7 @@
     },
     {
       "filtername": "lastName",
-        "filterlabel": {
+      "filterlabel": {
         "eng": "Last Name",
         "ara": "الكنية",
         "fra": "Nom de famille",
@@ -135,7 +134,6 @@
         "hin": "अंतिम नाम",
         "kan": "ಕೊನೆಯ ಹೆಸರು",
         "es":"Apellido"
-        
       },
       "filterType": "equals",
       "autocomplete": "false",
@@ -196,7 +194,7 @@
         "hin": "केंद्र प्रकार",
         "kan": "ಕೇಂದ್ರ ಪ್ರಕಾರ",
         "es": "Código de Localización"      
-            },
+      },
       "filterType": "contains",
       "fieldType": "mat-select",
       "autocomplete": "false",
